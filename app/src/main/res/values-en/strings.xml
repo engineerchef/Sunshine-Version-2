@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="http://schemas.android.com/apk/res-auto">
+    <string name="app_name">Ankara Weather Forecast</string>
+    <string name="format_humidity">Humidity : <xliff:g id="humidity">%1.0f</xliff:g> %%</string>
+    <string name="format_notification">Forecast: <xliff:g id="condition">%1$s</xliff:g> Highest : <xliff:g id="high">%2$s</xliff:g> Lowest : <xliff:g id="low">%3$s</xliff:g></string>
+    <string name="format_pressure">Air Pressure : <xliff:g id="pressure">%1.0f</xliff:g> hPa</string>
+    <string name="format_wind_kmh">Wind : <xliff:g id="speed">%1$1.0f</xliff:g> km/h <xliff:g id="direction">%2$s</xliff:g></string>
+    <string name="format_wind_mph">Wind : <xliff:g id="speed">%1$1.0f</xliff:g> mph <xliff:g id="direction">%2$s</xliff:g></string>
+    <string name="pref_enable_notifications_false">Turn Off</string>
+    <string name="pref_enable_notifications_true">Turn On</string>
+    <string name="pref_enable_notifications_label">Weather Forecast Notifications</string>
+    <string name="action_map">Location</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_share">Share</string>
+    <string name="pref_location_label">Location</string>
+    <string name="pref_units_label">Heat Units</string>
+    <string name="pref_units_label_imperial">Imperial</string>
+    <string name="pref_units_label_metric">Metric</string>
+    <string name="title_activity_detail">Details</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="today">Today</string>
+    <string name="tomorrow">Tomorrow</string>
+</resources>

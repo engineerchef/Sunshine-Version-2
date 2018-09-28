@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "22464876878",
+    "firebase_url": "https://admob-app-id-4967014252.firebaseio.com",
+    "project_id": "admob-app-id-4967014252",
+    "storage_bucket": "admob-app-id-4967014252.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:22464876878:android:b6dfeb2bc9e1c327",
+        "android_client_info": {
+          "package_name": "com.tolgaduran.calculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "22464876878-6ddg4re909gio79estcjb9cqojifq36d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLNqlZGFWXcxA1hocu2JKUcw4hxQwDTDE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:22464876878:android:367cd8b9ac518e81",
+        "android_client_info": {
+          "package_name": "com.tolgaduran.android.sunshine.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "22464876878-6ddg4re909gio79estcjb9cqojifq36d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLNqlZGFWXcxA1hocu2JKUcw4hxQwDTDE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
